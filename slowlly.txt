@@ -1,0 +1,32 @@
+; Generated (04.03.2021 07:55:55) by Defender Control v1.7
+; www.sordum.org
+
+[Main]
+Language=Auto
+HideWindowOnStartup=0
+HideWhenMinimized=0
+
+[Language_English]
+Translator=BlueLife
+01="Turn Windows Defender off or on with administrator rights"
+02="Windows Defender is running"
+03="Windows Defender is turned off"
+04="Windows Defender cannot be started"
+05="Windows Defender service not found"
+06="Real-time protection is turned off"
+07="&Disable Windows Defender"
+08="&Enable Windows Defender"
+09="&Open Security Center"
+10="&Menu ..."
+11="&Defender Settings"
+12="&Hide Window on Startup"
+13="&Hide When Minimized"
+14="&Refresh"
+15="&Command Line Info"
+16="&Donate"
+17="&Contact"
+18="&HomePage"
+19="&About"
+20="&Show Defender Control"
+21="&Exit Defender Control"
+22="Please Wait ..."
